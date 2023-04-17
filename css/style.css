@@ -113,6 +113,11 @@ ol {
     padding: 30px;
 }
 
+/* biografia */
+.main-biografia{
+    height: 100vh;
+}
+
 /* dicografia */
 .titulos-discografia {
     font-size: 30px;
